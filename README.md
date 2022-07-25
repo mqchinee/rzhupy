@@ -1,42 +1,42 @@
-# Rzhunemogu `1.0.0`
+# RzhuPY `1.0.0`
 
-[PyPI](https://pypi.org/project/rzhunemogu/)
+[PyPI](https://pypi.org/project/rzhupy/)
 
 ```python
-pip install rzhunemogu
+pip install rzhupy
 ```
 
 ## Examples
 
 ```python
-import rzhunemogu
+import rzhupy
 
 print("Шутка:")
-print(rzhunemogu.joke('ru'))
+print(rzhupy.joke('ru'))
 print("\n")
 
 print("die Geschichte:")
-print(rzhunemogu.story('de'))
+print(rzhupy.story('de'))
 print("\n")
 
 print("Poème:")
-print(rzhunemogu.poem('fr'))
+print(rzhupy.poem('fr'))
 print("\n")
 
 print("Афоризм:")
-print(rzhunemogu.aphorism('uk'))
+print(rzhupy.aphorism('uk'))
 print("\n")
 
 print("Quote:")
-print(rzhunemogu.quote('en'))
+print(rzhupy.quote('en'))
 print("\n")
 
 print("Pane abbrustolito:")
-print(rzhunemogu.toast('it'))
+print(rzhupy.toast('it'))
 print("\n")
 
 print("Күй:")
-print(rzhunemogu.status('kk'))
+print(rzhupy.status('kk'))
 ```
 
 ### Output
